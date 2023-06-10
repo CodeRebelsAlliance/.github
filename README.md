@@ -1,2 +1,1 @@
-# .github
-Für das öffentliche README.md für die Organisation
+Website: http://coderebelsalliance.org/

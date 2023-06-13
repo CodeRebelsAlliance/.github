@@ -1,1 +1,1 @@
-Website: http://coderebelsalliance.org/
+Website: https://coderebelsalliance.org/
